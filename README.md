@@ -15,9 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheGetsuzoThunder&repo=znxinvasion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br>
-<a align="center" href="https://github.com/TheGetsuzoThunder/TheGetsuzoThunder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGetsuzoThunder&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+![Thunder X7's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGetsuzoThunder&theme=dark&show_icons=true)
 <br>
 <a align="center" href="https://github.com/TheGetsuzoThunder/TheGetsuzoThunder">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGetsuzoThunder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My Github Stats" />

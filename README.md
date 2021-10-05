@@ -16,7 +16,7 @@
 </a>
 <br>
 <a align="center" href="https://github.com/TheGetsuzoThunder/TheGetsuzoThunder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGetsuzoThunder&show_icons=true&theme=dark" alt="My Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGetsuzoThunder&show_icons=true&theme=graywhite" alt="My Github Stats" />
 </a>
 <br>
 </p>

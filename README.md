@@ -14,6 +14,12 @@
 <a href="https://github.com/TheGetsuzoThunder/znxinvasion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheGetsuzoThunder&repo=znxinvasion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/TheGetsuzoThunder/TheGetsuzoThunder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGetsuzoThunder&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/TheGetsuzoThunder/TheGetsuzoThunder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGetsuzoThunder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My Github Stats" />
+</a>
 </p>
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>

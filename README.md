@@ -9,11 +9,6 @@
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
 </p>
-<p align="center">
-<h5 align="center">Github Stats</h5>
-<a align="center" href="https://github.com/TheGetsuzoThunder/znxinvasion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheGetsuzoThunder&repo=znxinvasion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <br>
 <a align="center" href="https://github.com/TheGetsuzoThunder/TheGetsuzoThunder">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGetsuzoThunder&show_icons=true&theme=graywhite" alt="My Github Stats" />

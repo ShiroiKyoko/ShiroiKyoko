@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
 </p>
 <br>
-<a align="center" href="https://github.com/TheGetsuzoThunder/TheGetsuzoThunder">
+<a align="center" href="https://github.com/TheGetsuzoThunder/znxinvasion">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGetsuzoThunder&show_icons=true&theme=graywhite" alt="My Github Stats" />
 </a>
 <br>

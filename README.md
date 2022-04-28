@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
 </p>
 <br>
-<a align="center" href="https://github.com/ThunderDevz/">
+<a align="center" href="https://github.com/ShoraDx/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThunderDevz&show_icons=true&theme=graywhite" alt="My Github Stats" />
 </a>
 <br>

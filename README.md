@@ -1,18 +1,14 @@
-<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"><br>It's Me</h1><br><h2 align="center">ShoraDx</h2>
+## <samp> Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+<img src="https://avatars.githubusercontent.com/ShiroiKyoko" height="180" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<br>
-<a align="center" href="https://github.com/ShoraDx/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShoraDx&show_icons=true&theme=graywhite" alt="My Github Stats" />
-</a>
-<br>
-</p>
+
+</br>
 <p align="center">
-  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+<a href="https://github.com/ShiroiKyoko"><img title="Owner" src="https://img.shields.io/badge/Author-ShiroiKyoko-red.svg?color=ff0000&style=for-the-badge&logo=github" /></a>  
 </p>
+
+## <samp> Contact: </samp>
+* [Instagram](https://instagram.com/shiroi.tsu_)
+* [WhatsApp](https://wa.me/6285333831716)
